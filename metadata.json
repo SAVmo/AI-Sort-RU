@@ -1,0 +1,5 @@
+{
+  "name": "AI Web Visualizer",
+  "description": "An AI-powered website visualization tool using Gemini 2.5 Flash Image. Generate and edit website mockups through natural language conversation.",
+  "requestFramePermissions": []
+}
